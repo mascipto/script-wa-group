@@ -1,14 +1,14 @@
 const fs = require('fs')
 
-global.namabot = "Bot Store"
-global.namaowner = "Bot Store"
-global.footer_text = "©Bot Store" + namabot
+global.namabot = "Otpic Store"
+global.namaowner = "Otpic Store"
+global.footer_text = "©Otpic Store" + namabot
 global.pp_bot = fs.readFileSync("./image/foto.jpg")
 global.qris = fs.readFileSync("./image/qris.jpg")
-global.owner = ['62895414916361','62895414916361']
+global.owner = ['6285647749567','6285647749567']
 global.sessionName = 'session'
 global.prefa = ['-_-']
-global.caption_pay = `Halo Kak! Terima Kasih sudah donasi.
+global.caption_pay = `Halo Kak! selamat datang adakah yang bisa saya bantu?.
 `
 //menu bot rapihin sendiri ya, belajar lah jadi anak mandiri.
 module.exports.helpMenu = (pushname) =>{
@@ -16,66 +16,65 @@ module.exports.helpMenu = (pushname) =>{
 
 ━━━━━━[ DAFTAR MENU ]━━━━━━
 
-⊷ infobot
-⊷ owner
-⊷ addsewa
-⊷ delsewa
-⊷ ceksewa
-⊷ listsewa
-⊷ setpayment
-⊷ updatepayment
-⊷ renamepayment
-⊷ dellpayment
-⊷ list
-⊷ addlist
-⊷ updatelist
-⊷ renamelist
-⊷ dellist
-⊷ jeda
-⊷ tambah
-⊷ kurang
-⊷ kali
-⊷ bagi
-⊷ setproses
-⊷ changeproses
-⊷ delsetproses
-⊷ setdone
-⊷ changedone
-⊷ delsetdone
-⊷ proses
-⊷ done
-⊷ welcome
-⊷ goodbye
-⊷ setwelcome
-⊷ changewelcome
-⊷ delsetwelcome
-⊷ setleft
-⊷ changeleft
-⊷ delsetleft
-⊷ antiwame
-⊷ antiwame2
-⊷ antilink
-⊷ antilink2
-⊷ open
-⊷ close
-⊷ hidetag
-⊷ add
-⊷ kick
-⊷ stiker
-⊷ setppgc
-⊷ setnamegc
-⊷ setdesgc
-⊷ linkgc
-⊷ resetlinkgc
-⊷ promote
-⊷ demote
-⊷ setbot
-⊷ updatesetbot
-⊷ delsetbot
-⊷ bot
+- NETFLIX
+- CANVA
+- NETFLIX HARIAN
+- DISNEY SHAR 10U
+- DISNEY
+- YOUTUBE
+- WETV
+- VIU
+- BSTATION
+- PRIME
+- IQIYI
+- CAPCUT
+- WPS
+- VPN
+- GRAMMARLY
+- CANVA OWNER
+- HBO
+- LOKLOK
+- LR
+- VISION+
+- MINECRAFT
+- POU
+- TURNITIN
+- PAPAGAME
+- AM
+- ZOOM
+- VSCO
+- VIDIO DIAMOND
+- APPLEMUSIC
+- VIDIO
+- FREE CANVA
+- VIKI
+- REMINI
+- TEZZA
+- PREQUEL
+- GAGAOLALA
+- TIKTOKMUSIC
+- CATCHPLAY
+- SCRIBD
+- CONVERT SALDO
+- FOLLS IG
+- MEITU
+- APPS EDITING IOS
+- MS365
+- WATTPAD
+- YOUKU
+- DRAKORID
+- DAZZCAM
+- GENFLIX
+- SUSHIROLL
+- IFLIX
+- APPLEKODE
+- SPOTIFY
+- GTC
+- PICSART
+- PROMO
 ━━━━━━━━━━━━━━━━━━━━━━━
-𝙺𝚞𝚗𝚓𝚞𝚗𝚐𝚒 𝚆𝚎𝚋𝚜𝚒𝚝𝚎
-www.bmod.systems
+HAPPY SHOPING
+-OTPIC STORE-
 ━━━━━━━━━━━━━━━━━━━━━━━
 `
 }
