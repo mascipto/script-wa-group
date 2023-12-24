@@ -14,67 +14,13 @@ global.caption_pay = `Halo Kak! selamat datang adakah yang bisa saya bantu?.
 module.exports.helpMenu = (pushname) =>{
   return `Halo ${pushname}
 
-━━━━━━[ DAFTAR MENU ]━━━━━━
+Selamat datang
+untuk DAFTAR MENU 
+silahkan ketik list, terimakasih sudah mampir
 
-- NETFLIX
-- CANVA
-- NETFLIX HARIAN
-- DISNEY SHAR 10U
-- DISNEY
-- YOUTUBE
-- WETV
-- VIU
-- BSTATION
-- PRIME
-- IQIYI
-- CAPCUT
-- WPS
-- VPN
-- GRAMMARLY
-- CANVA OWNER
-- HBO
-- LOKLOK
-- LR
-- VISION+
-- MINECRAFT
-- POU
-- TURNITIN
-- PAPAGAME
-- AM
-- ZOOM
-- VSCO
-- VIDIO DIAMOND
-- APPLEMUSIC
-- VIDIO
-- FREE CANVA
-- VIKI
-- REMINI
-- TEZZA
-- PREQUEL
-- GAGAOLALA
-- TIKTOKMUSIC
-- CATCHPLAY
-- SCRIBD
-- CONVERT SALDO
-- FOLLS IG
-- MEITU
-- APPS EDITING IOS
-- MS365
-- WATTPAD
-- YOUKU
-- DRAKORID
-- DAZZCAM
-- GENFLIX
-- SUSHIROLL
-- IFLIX
-- APPLEKODE
-- SPOTIFY
-- GTC
-- PICSART
-- PROMO
-━━━━━━━━━━━━━━━━━━━━━━━
-HAPPY SHOPING
--OTPIC STORE-
+
+Mengalami kendala?
+silahkan tanyakan ke Admin
 ━━━━━━━━━━━━━━━━━━━━━━━
 `
 }
